@@ -16,4 +16,20 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 ![Website](static/images/golang-website.png)
 
-## This repository demonstrates a production-grade DevOps implementation. The Go web application serves as a sample workload, while the Dockerization, Kubernetes manifests, Helm charts, Jenkins CI/CD pipeline, Argo CD GitOps workflow, and deployment automation were implemented by me.
+# Production-Grade DevOps CI/CD Platform on Kubernetes
+
+This repository demonstrates a production-grade DevOps implementation for a Go web application.
+
+## My Contribution
+
+I implemented the complete DevOps workflow, including:
+
+- Docker containerization
+- Kubernetes manifests
+- Helm charts
+- Jenkins CI/CD pipeline
+- Argo CD GitOps deployment
+- Kubernetes Ingress configuration
+- Deployment automation
+
+> **Note:** The Go web application is used as a sample workload to demonstrate the DevOps pipeline.
