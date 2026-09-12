@@ -27,7 +27,7 @@ I implemented the complete DevOps workflow, including:
 - Docker containerization
 - Kubernetes manifests
 - Helm charts
-- Jenkins CI/CD pipeline
+- GitHub Actions CI pipeline
 - Argo CD GitOps deployment
 - Kubernetes Ingress configuration
 - Deployment automation
